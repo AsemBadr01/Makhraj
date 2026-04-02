@@ -7,6 +7,12 @@ The system leverages **Transformer-based models (Whisper)** fine-tuned specifica
 
 ---
 
+## 📄 Documentation
+
+[Makhraj Documentation.pdf](https://github.com/user-attachments/files/26434575/Makhraj.Documentation.pdf)
+
+---
+
 ## 🚀 Features
 - 🎙️ Real-time speech recognition for Quran recitation  
 - 🧠 Fine-tuned Transformer model (Whisper)  
@@ -42,6 +48,10 @@ The system leverages **Transformer-based models (Whisper)** fine-tuned specifica
 
 ## ⚙️ Tech Stack
 
+### 🔹 Data Processing
+- NumPy  
+- Pandas 
+
 ### 🔹 AI / ML
 - PyTorch  
 - Transformers (Whisper)  
@@ -52,11 +62,7 @@ The system leverages **Transformer-based models (Whisper)** fine-tuned specifica
 - WebSockets  
 
 ### 🔹 Cloud
-- Microsoft Azure  
-
-### 🔹 Data Processing
-- NumPy  
-- Pandas  
+- Microsoft Azure   
 
 ---
 
@@ -87,17 +93,19 @@ The system leverages **Transformer-based models (Whisper)** fine-tuned specifica
 - Improve model accuracy with larger datasets  
 - Add Tajweed rule detection  
 - Build mobile application  
-- Enhance UI/UX  
+- Enhance UI/UX 
 - Support multiple recitation styles  
 
 ---
 
 ## 👨‍💻 Author
-**Assem Mosa Badr**  
-- GitHub: https://github.com/AsemBadr01  
-- LinkedIn: https://www.linkedin.com/in/assem-badr-806647307/  
+**Assem Mosa Badr**
+- LinkedIn: https://www.linkedin.com/in/assem-badr/  
 
 ---
 
 ## ⭐ Acknowledgment
 This project was developed as part of a graduation requirement and reflects a strong foundation in **AI, Deep Learning, and Speech Recognition systems**.
+
+---
+
